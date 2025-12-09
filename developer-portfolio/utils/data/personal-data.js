@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Aditya Dahake",
   profile: '/profile1.png',
-  designation: "FullStack Developer And Cyber Security",
+  designation: "FullStack Developer And Cyber Security Student",
   description: "Cybersecurity student and full-stack developer with hands-on experience building secure web applications, automation pipelines, and intrusion detection systems. Skilled in React, Node.js, MongoDB, Python, Snort, and REST APIs, with a strong interest in SOC operations, threat detection, and defensive engineering.",
   email: 'dahakeaditya263@gmail.com',
   phone: '+917798236115',
