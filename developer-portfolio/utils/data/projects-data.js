@@ -58,6 +58,22 @@ export const projectsData = [
     code: "https://lnkd.in/dp6zTeva",
     demo: "https://react-project-office-task-pud3.vercel.app/",
     linkedin: "https://www.linkedin.com/posts/activity-7354543102830772224-K0VW"
+  },
+  {
+    id: 4,
+    name: "DPDP CMS System – CMS",
+    description:
+      "Developed a comprehensive compliance management system for DPDP (Data Protection and Privacy Division) to automate GDPR and DPA 2018 compliance workflows. Built a centralized dashboard for tracking data processing activities, conducting DPIAs, managing data subject requests, and generating compliance reports. Integrated role-based access control, audit trails, and automated workflow approvals to streamline regulatory compliance processes.",
+    tools: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "REST API",
+    ],
+    role: "Full Stack Developer",
+    code: "",
+    demo: "https://njsofttech.com/CMP/admin/AdminLogin",
+    linkedin: ""
   }
 ]
 ;
