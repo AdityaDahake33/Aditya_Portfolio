@@ -9,7 +9,7 @@ export const educations = [
     id: 2,
     title: "Higher Secondary Certificate",
     duration: "2020 - 2022",
-    institution: "santaji mahavidyalaya nagpur",
+    institution: "Santaji Mahavidyalaya Nagpur",
   },
   {
     id: 3,
