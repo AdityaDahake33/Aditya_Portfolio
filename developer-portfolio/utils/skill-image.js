@@ -254,7 +254,11 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'cybersecurity':
+    case 'framer motion':
+      // Return a default skill icon or null for skills without specific icons
+      return null;
     default:
-      break;
+      return null;
   }
 }
