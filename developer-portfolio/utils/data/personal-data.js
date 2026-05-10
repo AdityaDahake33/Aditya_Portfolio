@@ -10,8 +10,6 @@ export const personalData = {
   facebook: 'https://www.facebook.com/AdityaDahake263/',
   linkedIn: 'https://www.linkedin.com/in/adityadahake263/',
   twitter: 'https://twitter.com/AdityaDahake26',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
   devUsername: "AdityaDahake33",
-  resume: "https://drive.google.com/file/d/1273jhkllE7rTqspxgFAlPaev6N-om1NA/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1xwISnS38Q5ruvEAEbDUo6BWyT-5CEH0G/view?usp=sharing"
 }

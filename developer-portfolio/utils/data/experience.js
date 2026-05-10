@@ -1,15 +1,15 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Web Development Intern',
-    company: "Cognifyz Technologies (Remote)",
-    duration: "(Jun 2025 - Jul 2025)"
+    title: 'Junior Cyber Forensic Expert (Internship)',
+    company: "CFT (Crypto Forensics Technology)",
+    duration: "(Dec 2025 - Jul 2026)"
   },
   {
     id: 2,
-    title: 'Cybersecurity Intern',
+    title: 'Full Stack Developer (Internship)',
     company: "Code Alpha (Remote)",
-    duration: "(Jun 2021 - Jan 2022)"
+    duration: "(Apr 2026 - Present)"
   },
   {
     id: 3,
